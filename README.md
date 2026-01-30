@@ -1,12 +1,25 @@
+<div align="center" 
+     style="
+       padding: 30px; 
+       width: 90%; 
+       margin: 20px auto;
+     ">
 
+<h1 style="margin-bottom: 10px; font-size: 60px;">👋 Hi, I’m Han (they/them)</h1>
 
-👋 Hi, I’m Han (they/them)  
+<p style="margin-top:10px; margin-bottom:10px;">
+I’m currently completing an <b>Umschulung zur Fachinformatikerin für Anwendungsentwicklung</b><br>
+at the <b>Institut für Berufliche Bildung (IBB) (Aug 2025 – Jun 2027)</b>.
+</p>
 
-I’m currently completing an **Umschulung zur Fachinformatikerin für Anwendungsentwicklung**  
-at the **Institut für Berufliche Bildung (IBB)** (Aug 2025 – Jun 2027).
+<p style="margin-top:10px; margin-bottom:10px;">
+My goal is to secure a <b>Praktikum</b> where I can apply what I’m learning, grow through real-world projects,<br>
+and build a strong foundation for a junior developer role.<br><br>
+<b>➡️Available for an unpaid internship from 10 August 2026 to 2 April 2027.⬅️</b>
+</p>
 
-My goal is to secure a **Praktikum** where I can apply what I’m learning, grow through real-world projects, and build a strong foundation for a junior developer role.  
-**Available for an unpaid internship from 10 August 2026 to 2 April 2027.**
+</div>
+
 
 ---
 
