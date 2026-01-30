@@ -1,4 +1,9 @@
 
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="./header.svg" alt="HAN (they/them) Banner" width="100%">
+</div>
+
 ---
 
 👋 Hi, I’m Han (they/them)  
