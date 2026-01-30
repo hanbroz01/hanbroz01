@@ -1,5 +1,30 @@
 <div align="center">
-  <img src="./header.svg" width="100%" alt="HAN (they/them) Banner" />
+
+<!-- HEADER BANNER (static SVG) -->
+<svg width="854" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background dots -->
+  <circle cx="60" cy="50" r="12" fill="#4bc9b2" opacity="0.15"/>
+  <circle cx="200" cy="100" r="18" fill="#fdde33" opacity="0.15"/>
+  <circle cx="350" cy="80" r="10" fill="#cfcdfa" opacity="0.15"/>
+  <circle cx="500" cy="140" r="14" fill="#ef3886" opacity="0.15"/>
+  <circle cx="700" cy="60" r="12" fill="#fc73b1" opacity="0.15"/>
+
+  <!-- Name + pronouns -->
+  <text x="427" y="70" font-size="50" font-weight="900" fill="#49c0e2" font-family="sans-serif" text-anchor="middle">
+    HAN (they/them)
+  </text>
+
+  <!-- Role description -->
+  <text x="427" y="110" font-size="18" font-weight="400" fill="#49c0e2" font-family="monospace" text-anchor="middle">
+    Aspiring Software Developer – Learning Python & Web
+  </text>
+
+  <!-- Praktikum availability -->
+  <text x="427" y="150" font-size="16" font-weight="400" fill="#fdde33" font-family="monospace" text-anchor="middle">
+    Available for unpaid internship: 10 Aug 2026 – 2 Apr 2027
+  </text>
+</svg>
+
 </div>
 
 ---
