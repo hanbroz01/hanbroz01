@@ -8,7 +8,7 @@
 <h1 style="margin-bottom: 10px; font-size: 60px;">👋 Hi, I’m Han (they/them)</h1>
 
 <p style="margin-top:10px; margin-bottom:10px;">
-I’m currently completing an <b>Umschulung zur Fachinformatikerin für Anwendungsentwicklung</b><br>
+I’m currently completing an <b>Umschulung zur Fachinformatiker für Anwendungsentwicklung</b><br>
 at the <b>Institut für Berufliche Bildung (IBB) (Aug 2025 – Jun 2027)</b>.
 </p>
 
