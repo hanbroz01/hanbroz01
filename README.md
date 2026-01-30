@@ -49,7 +49,7 @@ A text-based Python game demonstrating **core OOP concepts**.
 
 ---
 
-## 🛠 Tech & Tools
+## 🛠️ Tech & Tools
 - **Languages:** Python, HTML, CSS  
 - **Databases:** MySQL  
 - **Concepts:** OOP, UML basics  
@@ -57,7 +57,7 @@ A text-based Python game demonstrating **core OOP concepts**.
 
 ---
 
-## 🌱 How I approach learning
+## 🧠💡 How I approach learning
 I enjoy solving **real-world problems** through logic and structured thinking.  
 My motivation is to build software that makes everyday tasks **simpler, clearer, and more user-friendly**.
 
@@ -65,6 +65,6 @@ I value continuous learning, clean code, and understanding *why* something works
 
 ---
 
-## 📫 Let’s connect
+## 🤝 Let’s connect
 - 💼 LinkedIn: [Han Brozinski](https://www.linkedin.com/in/han-brozinski-7a8627124/)
 - 📧 Email: hanbrozinski@gmail.com
