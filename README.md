@@ -59,7 +59,7 @@ A console Python game where a human plays against different computer strategies.
 
 ##
 
-### 🔢 math-practice-game
+### 🧮 math-practice-game
 A text-based Python program for practicing arithmetic with score tracking.
 
 **What I practiced:**
@@ -71,7 +71,7 @@ A text-based Python program for practicing arithmetic with score tracking.
 
 ##
 
-### 💻 dkb-website-clone
+### ⚠️ dkb-website-clone (WIP)
 Frontend project replicating the DKB website for educational purposes.
 
 **What I practiced:**
