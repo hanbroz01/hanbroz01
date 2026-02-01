@@ -35,15 +35,24 @@ and build a strong foundation for a junior developer role.<br><br>
 ## 🧩 Featured Projects
 
 ### 🏰 adventure-game 
-A Python-based game focused on game logic and problem-solving.  
-**What I practiced:** control flow, program structure, and logical thinking.
+A text-based game where players solve puzzles and explore challenges.
+
+**What I practiced:**
+- Writing clean, maintainable code with clear control flow  
+- Structuring logic for game state and player decisions  
+- Problem-solving and algorithmic thinking  
+- Handling user input and dynamic scenarios
+
+**Focus:** building logical, structured code to manage game state and player choices efficiently.
 
 ### 🧙 oop-combat-game
 A text-based Python game demonstrating **core OOP concepts**.
-- Character creation and combat system
-- Health, power, leveling, and monster rage mechanics
-- Shared `Character` base class to demonstrate **inheritance**
-- Clear use of **encapsulation and methods**
+
+**What I practiced:**
+- Object-Oriented Programming: classes, inheritance, encapsulation  
+- Designing reusable and modular game systems  
+- Implementing character creation, leveling, and combat mechanics  
+- Translating game rules into working Python logic
 
 **Focus:** learning how to design reusable, understandable code using OOP principles.
 
