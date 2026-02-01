@@ -1,24 +1,38 @@
-<div align="center" 
+<div align="center"
      style="
-       padding: 30px; 
-       width: 90%; 
+       padding: 30px;
+       max-width: 900px;
        margin: 20px auto;
      ">
 
-<h1 style="margin-bottom: 10px; font-size: 60px;">👋 Hi, I’m Han (they/them)</h1>
+<h1 style="margin-bottom: 20px; font-size: 56px;">
+👋 Hi, I’m Han (they/them)
+</h1>
 
-<p style="margin-top:10px; margin-bottom:10px;">
-I’m currently completing an <b>Umschulung (career retraining) to become a Fachinformatiker für Anwendungsentwicklung (IT Specialist in Application Development)</b><br>
-at the <b>Institut für Berufliche Bildung (IBB) in Münster, Germany (Aug 2025 – Jun 2027)</b>.
+<p style="
+  margin: 0 auto 16px;
+  line-height: 1.6;
+  text-align: justify;
+">
+I’m currently completing an <b>Umschulung (career retraining) to become a Fachinformatiker für Anwendungsentwicklung (IT Specialist in Application Development)</b>
+at the <b>Institut für Berufliche Bildung (IBB) in Münster, Germany</b> (Aug 2025 – Jun 2027).
 </p>
 
-<p style="margin-top:10px; margin-bottom:10px;">
-My goal is to secure a <b>Praktikum (internship)</b> where I can apply what I’m learning, grow through real-world projects,<br>
-and build a strong foundation for a junior developer role.<br><br>
-<b>➡️Available for an unpaid internship from 10 August 2026 to 2 April 2027.⬅️</b>
+<p style="
+  margin: 0 auto 16px;
+  line-height: 1.6;
+  text-align: justify;
+">
+My goal is to secure a <b>Praktikum (internship)</b> where I can apply what I’m learning, grow through real-world projects,
+and build a strong foundation for a junior developer role.
+</p>
+
+<p style="margin-top: 20px;">
+<b>➡️ Available for an unpaid internship from 10 August 2026 to 2 April 2027 ⬅️</b>
 </p>
 
 </div>
+
 
 
 ---
