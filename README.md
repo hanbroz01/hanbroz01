@@ -33,8 +33,6 @@ and build a strong foundation for a junior developer role.
 
 </div>
 
-
-
 ---
 
 ## 🚀 What I’m focusing on right now
@@ -48,29 +46,52 @@ and build a strong foundation for a junior developer role.
 
 ## 🧩 Featured Projects
 
-### 🏰 adventure-game 
-A text-based game where players solve puzzles and explore challenges.
-
-**What I practiced:**
-- Writing clean, maintainable code with clear control flow  
-- Structuring logic for game state and player decisions  
-- Problem-solving and algorithmic thinking  
-- Handling user input and dynamic scenarios
-
-**Focus:** building logical, structured code to manage game state and player choices efficiently.
-
-##
-
-### 🧙 oop-combat-game
-A text-based Python game demonstrating **core OOP concepts**.
+### 🖖 rock-paper-scissors-lizard-spock
+A console Python game where a human plays against different computer strategies.
 
 **What I practiced:**
 - Object-Oriented Programming: classes, inheritance, encapsulation  
-- Designing reusable and modular game systems  
-- Implementing character creation, leveling, and combat mechanics  
-- Translating game rules into working Python logic
+- Designing reusable, modular game logic for players and game rounds  
+- Handling user input and score tracking  
+- Writing maintainable, interactive console programs
 
-**Focus:** learning how to design reusable, understandable code using OOP principles.
+**Focus:** building a fun, structured game that demonstrates OOP principles.
+
+##
+
+### 🔢 math-practice-game
+A text-based Python program for practicing arithmetic with score tracking.
+
+**What I practiced:**
+- Using loops, conditionals, and randomization  
+- Tracking user progress and maintaining state across rounds  
+- Writing clear, maintainable, beginner-friendly code
+
+**Focus:** creating a structured learning tool with interactive gameplay.
+
+##
+
+### 💻 dkb-website-clone
+Frontend project replicating the DKB website for educational purposes.
+
+**What I practiced:**
+- Responsive design with HTML and CSS  
+- Interactive elements using JavaScript  
+- Structuring a web page with clean layout and reusable components
+
+**Focus:** building polished, functional web pages with modern frontend practices.
+
+##
+
+### 🏰 adventure-game
+A text-based adventure game where players explore a world and solve puzzles.
+
+**What I practiced:**
+- Game state management and logic control flow  
+- Handling dynamic player choices and branching outcomes  
+- Writing structured, maintainable code for interactive storytelling
+
+**Focus:** creating an engaging console game while practicing logical, structured programming.
 
 ---
 
