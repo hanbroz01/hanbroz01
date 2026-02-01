@@ -15,7 +15,7 @@
   text-align: justify;
 ">
 I’m currently completing an <b>Umschulung (career retraining) to become a Fachinformatiker für Anwendungsentwicklung (IT Specialist in Application Development)</b>
-at the <b>Institut für Berufliche Bildung (IBB) in Münster, Germany</b> (Aug 2025 – Jun 2027).
+at the <b>Institut für Berufliche Bildung (IBB) in Münster, Germany</b> (Aug 2025 – July 2027).
 </p>
 
 <p style="
