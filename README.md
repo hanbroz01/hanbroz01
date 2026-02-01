@@ -59,7 +59,7 @@ A text-based game where players solve puzzles and explore challenges.
 
 **Focus:** building logical, structured code to manage game state and player choices efficiently.
 
-***
+##
 
 ### 🧙 oop-combat-game
 A text-based Python game demonstrating **core OOP concepts**.
