@@ -34,11 +34,11 @@ and build a strong foundation for a junior developer role.<br><br>
 
 ## 🧩 Featured Projects
 
-### 🎮 Adventure_Game
+### 🏰 Adventure Game - A Knights Mission
 A Python-based game focused on game logic and problem-solving.  
 **What I practiced:** control flow, program structure, and logical thinking.
 
-### 🧙 OOP-Game
+### 🧙 OOP-Combat-Game
 A text-based Python game demonstrating **core OOP concepts**.
 - Character creation and combat system
 - Health, power, leveling, and monster rage mechanics
