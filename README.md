@@ -23,9 +23,7 @@ at the Institut für Berufliche Bildung (IBB) in Münster, Germany (Aug 2025 –
   line-height: 1.6;
   text-align: justify;
 ">
-My goal is to secure a <b>Praktikum (internship)</b> where I can apply what I’m learning, grow through real-world projects,
-and build a strong foundation for a junior developer role.
-</p>
+
 
 <p style="margin-top: 20px;">
 </p>
