@@ -28,7 +28,6 @@ and build a strong foundation for a junior developer role.
 </p>
 
 <p style="margin-top: 20px;">
-<b>➡️ Available for an unpaid internship from 10 August 2026 to 2 April 2027 ⬅️</b>
 </p>
 
 </div>
