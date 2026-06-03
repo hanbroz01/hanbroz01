@@ -56,18 +56,6 @@ A console Python game where a human plays against different computer strategies.
 
 ##
 
-### ⚠️ dkb-website-clone (WIP)
-Frontend project replicating the DKB website for educational purposes.
-
-**What I practiced:**
-- Responsive design with HTML and CSS  
-- Interactive elements using JavaScript  
-- Structuring a web page with clean layout and reusable components
-
-**Focus:** building polished, functional web pages with modern frontend practices.
-
-##
-
 ### 🏰 adventure-game
 A text-based adventure game where players explore a world and solve puzzles.
 
